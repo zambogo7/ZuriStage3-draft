@@ -28,7 +28,7 @@ const Nav = () => {
           <li>
             <Link
               to="/"
-              href="https://github.com/VictoriaAde/metabnb"
+              
               className="xxl:text-xl text-gray"
             >
               Home
